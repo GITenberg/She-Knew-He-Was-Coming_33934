@@ -9,7 +9,7 @@ contributor:
     - Alexander, Ed
     - Emsh
     - Emshwiller, Edmund A.
-    birthdate: &id001 1925
+    birthdate: 1925
     deathdate: 1990
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
@@ -21,12 +21,14 @@ creator:
   author:
     agent_name: Neville, Kris
     alias: Neville, Kris Ottman
-    birthdate: *id001
+    birthdate: 1925
     deathdate: 1980
     gutenberg_agent_id: '25913'
     url: http://www.gutenberg.org/2009/agents/25913
     wikipedia: http://en.wikipedia.org/wiki/Kris_Ottman_Neville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33934#She-Knew-He-Was-Coming
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-10-11'
 gutenberg_type: Text
