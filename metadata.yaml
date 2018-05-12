@@ -1,0 +1,46 @@
+_repo: She-Knew-He-Was-Coming_33934
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Willer
+    - Emsh, Ed
+    - Alexander, Ed
+    - Emsh
+    - Emshwiller, Edmund A.
+    birthdate: &id001 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 33934-h/images/coversheknewshewascoming.jpg
+creator:
+  author:
+    agent_name: Neville, Kris
+    alias: Neville, Kris Ottman
+    birthdate: *id001
+    deathdate: 1980
+    gutenberg_agent_id: '25913'
+    url: http://www.gutenberg.org/2009/agents/25913
+    wikipedia: http://en.wikipedia.org/wiki/Kris_Ottman_Neville
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: She Knew He Was Coming
+url: http://www.gutenberg.org/ebooks/33934
